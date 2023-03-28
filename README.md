@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-
-
  **I'm Steph, a Full Stack Software Developer. Thanks for visiting my repo!** 
 
 - 🔭 I’m currently working on ...
