@@ -2,10 +2,12 @@
 
  **I'm Steph, a Full Stack Software Developer** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+I am a hardworking and motivated full stack developer with excellent communication and interpersonal skills.  I am looking for an opportunity to work as part of a team and apply myself to new challenges to develop my technical skills further.
 
-- 📫 How to reach me: ...
+- 📫 Contact me: 
+     stephski483@gmail.com
+     07774656264
 
-- ⚡ Fun fact: ...
--->
+- 💫 Fun fact about me: 
+    I auditioned for the Royal Ballet, twice.
+
